@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Cypher Whisperer
+# Hey there! 👋 I'm CypherWhisperer
 
 🎓 **Computer Science Student** at Zetech University, Kenya  
 💻 **Full-Stack Developer** with a passion for creating beautiful, secure digital experiences  
@@ -69,12 +69,24 @@ Creating and incorporating 3D models into modern web applications.
 **🔮 Emerging Tech**  
 Blockchain, IoT home automation, and leveraging AI in development workflows.
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CypherWhisperer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CypherWhisperer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CypherWhisperer&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=f85149&fire=f85149&currStreakLabel=c9d1d9)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CypherWhisperer&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=f85149&point=c9d1d9)
+
 ---
 
-## 📫 **Let's Connect**
+## 📫 Let's Connect
+
+![Profile Views](https://komarev.com/ghpvc/?username=CypherWhisperer&color=blueviolet&style=flat-square&label=Profile+Views)
 
 I'm always excited to collaborate on projects that push boundaries—whether that's building the next beautiful web app or diving deep into security research.
 
 ---
 
-*"The greatest and Truest hacker is the developer who truly understands systems and computation."*
+*"The greatest hacker is the developer who truly understands systems and computation."*
