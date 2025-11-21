@@ -24,14 +24,14 @@ I'm on a journey to merge **artistry with code**, crafting web applications that
 ### 🎨 **Frontend Artistry**
 
 - **React.js** ecosystem exploration
-- **3D web experiences** with Three.js and WebGL
-- **SVG animations** and interactive graphics
+- **3D web experiences** with Three.js, Spline and WebGL
+- **SVG animations** and interactive graphics with Framer Motion and GSAP
 - Creating visually stunning, user-centric interfaces
 
 ### ⚡ **Backend Engineering**
 
 - Designing robust, scalable infrastructure
-- Building secure APIs and microservices
+- Building secure APIs and micro-services
 - Database architecture and optimization
 
 ### 🔐 **Security-First Development**
@@ -76,10 +76,11 @@ while (learning) {
 - **JavaScript/TypeScript** - Modern web development
 - **Python** - Automation and scripting
 - **Lua** - Configuration and scripting
+- **Bash** - Environment and shell scripting
 
 ### 🐧 **Linux & CLI Enthusiast**
 
-Two years ago, I took the leap—wiped my disk and went full Linux. No regrets. I live in the terminal and love building CLI tools that make workflows feel like magic to others.
+Two years ago, I took the leap—wiped my disk and went full Linux. No regrets. I live in the terminal and love learning, building, working with, and tinkering with CLI tools that make workflows feel like magic to others.
 
 ---
 
@@ -139,5 +140,6 @@ I'm always excited to collaborate on projects that push boundaries—whether tha
 ---
 
 _"The greatest hacker is the developer who truly understands systems and computation."_
+
 
 
